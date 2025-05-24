@@ -1,8 +1,3 @@
-/*                    NAME-DEEP KUMAR SARKAR
-                      ROLL-22CS8125        */
-
-
-
 
 #include <stdio.h>
 #include <stdlib.h>
